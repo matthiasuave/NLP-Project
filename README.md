@@ -1,3 +1,6 @@
+Title : Sentiment Classification using Document Embeddings trained with Cosine Similarity
+
+
 This code was downloaded from the original work :
 Code for the ACL-SRW 2019 paper: "Sentiment Classification using Document Embeddings trained with Cosine Similarity".
 
