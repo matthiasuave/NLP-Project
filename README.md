@@ -24,7 +24,7 @@ Trained embeddings (using cosine similarity):
 
 2 - To run our testing on the Amazon dataset the files need to be downloaed from :
 
-Amazon data:
+Amazon Reviews data:
 [unigrams](https://drive.google.com/file/d/15DGSajip2qtjx3dlpWtdQYbaGGZba9zU/view?usp=sharing), [unigrams+bigrams](https://drive.google.com/file/d/1NNtrcq4YI7rixrrkede8XZzXdAYZnffQ/view?usp=sharing), [unigrams+bigrams+trigrams](https://drive.google.com/file/d/1UjFkK-GcKwpgogWH1WQsIrL8U3yO463a/view?usp=sharing)
 
 Trained embeddings (using cosine similarity):
